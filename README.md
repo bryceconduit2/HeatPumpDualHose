@@ -5,4 +5,4 @@
 *Figure 1: Internal view of heat pump arrangement.*
 
 ![External view of heat pump arrangement](res/photos/external.jpg)
-*Figure 2: External view of heat pump arrangement.*
+*Figure 2: External view of heat pump arrangement. Set up for cooling mode.*
