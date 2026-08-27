@@ -1,5 +1,5 @@
 # HeatPumpDualHose
-3D printing to convert cheap single hose heat pump to dual hose. Photos show arrangment that has been operating since January 2024.  Under construction
+3D printing to convert cheap single hose heat pump to dual hose (heating/cooling). Photos show arrangment that has been operating since January 2024.  Under construction
 
 ![Internal view of heat pump arrangement](res/photos/internal.jpg)
 *Figure 1: Internal view of heat pump arrangement.*
