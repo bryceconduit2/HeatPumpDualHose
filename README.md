@@ -37,6 +37,9 @@ Performance measurements are made with no other sources of heating running e.g. 
 ![COP Temperatures](res/data/cop_vs_source_temp.png)
 *Figure 3: COP (Heating) vs. heat pump source temperature.*
 
+# Cooling Performance
+
+to be measured.
 
 # Photos
 ![Internal view of heat pump arrangement](res/photos/internal.jpg)
