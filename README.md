@@ -1,8 +1,9 @@
 # HeatPumpDualHose
-3D printing to convert cheap single hose heat pump to dual hose (heating/cooling). Photos show arrangment that has been operating since January 2024.  Under construction
+3D printing to convert cheap single hose heat pump to dual hose (heating/cooling). Photos show arrangment that has been operating since January 2024.  
+**Under construction**
 
 # Why?
-Single-hose units expel conditioned indoor air outside, creating a vacuum that pulls unconditioned, humid outside air back into the house through cracks and gaps. Dual-hose systems draw outdoor air strictly through the second hose to exhaust heat, keeping indoor air pressure balanced.
+Single-hose units expel conditioned indoor air outside, creating a vacuum which pulls outside air back into the house through cracks and gaps. Dual-hose systems draw outdoor air strictly through the second hose to exhaust heat, keeping indoor air pressure balanced. 
 
 # Measurements
 Following parameters measured:
@@ -45,6 +46,6 @@ Calculated values:
 
 This project is an independent hobbyist modification involving exclusively external 3D-printed plastic ducting, adapters, and window panels. It is not affiliated with, endorsed by, or sponsored by Costway.
 
-Structural, Safety and Security: Ensure all 3D-printed window inserts and duct mounts are securely fitted to prevent accidental drops or compromised home security. Make sure you are happy with the risks and any associated implications of using these instructions in any way.
+Structural, Safety and Security: Ensure all components are securely fitted to prevent accidental drops or compromised home security. In particular, the heat pump itself contains propane as the refrigerant so ensure this is securely fastened against accidental dropage to ensure no release of flammable materials. Make sure you are happy with the risks and any associated implications of using these instructions in any way.
 
 No Warranty: All 3D printing files and project designs are provided "as is" without warranty of any kind. Replication and use of these designs are entirely at your own risk.
