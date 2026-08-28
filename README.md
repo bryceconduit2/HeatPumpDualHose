@@ -27,6 +27,7 @@ Calculated values:
 # Heating Performance
 
 Heat performance is measured in the dual hose mode only. Although no single hose comparison have been taken, for comparison the manufacturer data states a 1.8 kW output and a COP of 2.4.
+Performance measurements are made with no other sources of heating running e.g. boiler/fan heater.
 ![Source Room Temperatures](res/data/temperatures_vs_source_temp.png)
 *Figure 1: Temperature in/out of heat pump vs. heat pump source temperature.*
 
