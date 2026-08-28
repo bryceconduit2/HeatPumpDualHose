@@ -6,17 +6,17 @@ Single-hose units expel conditioned indoor air outside, creating a vacuum that p
 
 # Measurements
 Following parameters measured:
--Electricity Power In: Using plug in power meter
--Source Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in source location).
--Room In Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in room location).
--Room Out Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
--Massflow: Using hand held anemometer.
--Humidity: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
+- Electricity Power In: Using plug in power meter
+- Source Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in source location).
+- Room In Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in room location).
+- Room Out Temperature: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
+- Massflow: Using hand held anemometer.
+- Humidity: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
 
 Calculated values:
--Air heat capacity KJ/K/kg: From lookup table vs air humidity
--Est thermal power out: From heatpump massflow * air heat capacity * (Room out - Room in tempeatures)
--COP: From thermal power out/electrical power in
+- Air heat capacity KJ/K/kg: From lookup table vs air humidity
+- Est thermal power out: From heatpump massflow * air heat capacity * (Room out - Room in tempeatures)
+- COP: From thermal power out/electrical power in
 
 # Heating Performance
 ![Source Room Temperatures](res/data/temperatures_vs_source_temp.png)
