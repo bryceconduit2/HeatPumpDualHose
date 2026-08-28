@@ -38,7 +38,6 @@ Performance measurements are made with no other sources of heating running e.g. 
 *Figure 3: COP (Heating) vs. heat pump source temperature.*
 
 # Raw Data
-# Portable Heat Pump Modification - Performance Test Data
 
 | Run | Electricity Power in [kW] | Source Temp [°C] | Room In Temp [°C] | Room Out Temp [°C] | Est. $c_{air}$ [kJ/(kg·K)] | Air Humidity [kg/kg] | Room Out-In [K] | Heat Pump Flow [kg/s] | Est. Heating Power Out [kW] | COP [kW/kW] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
