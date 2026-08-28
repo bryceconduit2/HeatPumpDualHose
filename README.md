@@ -6,13 +6,13 @@ Single-hose units expel conditioned indoor air outside, creating a vacuum that p
 
 
 # Heating Performance
-![Source Room Temperatures](res/photos/temperatures_vs_source_temp.png)
+![Source Room Temperatures](res/data/temperatures_vs_source_temp.png)
 *Figure 1: Temperature in/out of heat pump vs. heat pump source temperature.*
 
-![Power Temperatures](res/photos/power_vs_source_temp.png)
+![Power Temperatures](res/data/power_vs_source_temp.png)
 *Figure 2: Input/output electricity power vs. heat pump source temperature.*
 
-![COP Temperatures](res/photos/cop_vs_source_temp.png)
+![COP Temperatures](res/data/cop_vs_source_temp.png)
 *Figure 3: COP (Heating) vs. heat pump source temperature.*
 
 
