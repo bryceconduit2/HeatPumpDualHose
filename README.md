@@ -10,11 +10,16 @@ Following parameters measured:
 - **Source Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in source location).
 - **Room In Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in room location).
 - **Room Out Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
-- **Massflow [l/min]**: Using hand held anemometer.
+- **Air velocity [m/s]**: Using hand held anemometer.
 - **Humidity [%]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
+
+Following parameters assumed:
+- **Air volume [litre/min]**: From heat pump specifications.
+- **Air density [kg/m^3]**: Assumed as 1.2 kg/m^3.
 
 Calculated values:
 - **Air heat capacity [KJ/K/kg]**: From lookup table vs air humidity
+- **Massflow [kg/s]**: From air volume in litres/second * air density. 
 - **Est thermal power out [kW]**: From heatpump massflow * air heat capacity * (Room out - Room in tempeatures)
 - **COP [kW/kW]**: From thermal power out/electrical power in
 
