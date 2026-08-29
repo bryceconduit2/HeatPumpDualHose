@@ -88,6 +88,6 @@ to be measured.
 
 This project is an independent hobbyist modification involving exclusively external 3D-printed plastic ducting, adapters, and window panels. It is not affiliated with, endorsed by, or sponsored by Costway.
 
-Structural, Safety and Security: Ensure all components are securely fitted to prevent accidental drops or compromised home security. In particular, the heat pump itself contains propane as the refrigerant so ensure this is securely fastened against accidental dropage to ensure no release of flammable materials. Make sure you are happy with the risks and any associated implications of using these instructions in any way.
+Structural, Safety and Security: Ensure all components are securely fitted and installed in a non publically accessible location to prevent accidental drops or compromised home security. In particular, the heat pump itself contains propane as the refrigerant so ensure this is securely fastened against accidental dropage to ensure no release of flammable materials. Make sure you are happy with the risks and any associated implications of using these instructions in any way.
 
 No Warranty: All 3D printing files and project designs are provided "as is" without warranty of any kind. Replication and use of these designs are entirely at your own risk.
