@@ -5,9 +5,13 @@
 # Why?
 Single-hose units expel conditioned indoor air outside, creating a vacuum which pulls outside air back into the house through cracks and gaps. Dual-hose systems draw outdoor air strictly through the second hose to exhaust heat, keeping indoor air pressure balanced. 
 
+This a low cost heating/cooling method which is completely independant of any other heating mechanism and can be installed/removed relatively quickly. Coupled with a source which accumulates heat naturally (e.g. conservatory) then it can be a very cheap/effective method of heating in moderate conditions.
+
 # Setup
 - Costway FP10284GB 5in1 heat/cooling/dehumidifer 7000 BTU.
 - Anet A8 3D printer
+- PLA filement
+- Plywood/whitewood for wood surround
 
 # Measurements
 The following parameters are measured:
