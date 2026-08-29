@@ -33,7 +33,7 @@ Calculated values:
 - **Air heat capacity [KJ/K/kg]**: From lookup table vs air humidity
 - **Massflow [kg/s]**: From air volume in m<sup>3</sup>/second * air density. This was checked against anemometer calculated value.
 - **Est thermal power out [kW]**: From heatpump massflow * air heat capacity * (Room out - Room in tempeatures)
-- **COP [kW/kW]**: From thermal power out/electrical power in
+- **COP [kW/kW]**: From calculated thermal power out/electrical power in
 
 # Heating Performance
 
