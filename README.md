@@ -23,8 +23,8 @@ The following parameters are measured:
 - **Humidity [%]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (attached to heat pump out).
 
 Following parameters assumed:
-- **Air volume [m<sup>3/hour]**: From heat pump specifications.
-- **Air density [kg/m<sup>3]**: Assumed as 1.2 kg/m^3.
+- **Air volume [m<sup>3</sup>/hour]**: From heat pump specifications.
+- **Air density [kg/m<sup>3</sup>]**: Assumed as 1.2 kg/m^3.
 
 Calculated values:
 - **Air heat capacity [KJ/K/kg]**: From lookup table vs air humidity
