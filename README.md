@@ -1,5 +1,5 @@
-# HeatPumpDualHose
-3D printing to convert cheap single hose heat pump to dual hose (heating/cooling). Photos show arrangment that has been operating since January 2024.  
+# Introduction
+Use of 3D printing to convert cheap single hose heat pump to dual hose (heating/cooling). Photos show arrangment that has been operating since January 2024.  
 **Under construction**
 
 # Why?
@@ -10,7 +10,7 @@ This a low cost heating/cooling method which is completely independant of any ot
 From the results shown a COP (heat energy out/electric energy in) can be 2-4 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower outlay and has much easier installation/removal which does not require any professional f-gas handling.
  
 # Equipment used
-This is what is used here, but many different combinations are possible:
+This is what is used here, but many different combinations are possible. A relatively slim portable heat pump/air conditioner was chosen to be easily placeable on a windowsill. The flat design and regularly shaped inlets/outlets facilited the design:
 - Costway FP10284GB 5in1 heat/cooling/dehumidifer 7000 BTU. Contains propane (R290) as the refrigerant.
 - Anet A8 3D printer
 - PLA filement
