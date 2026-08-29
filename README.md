@@ -5,7 +5,7 @@ Use of 3D printing to convert cheap single hose heat pump to dual hose (heating/
 # Why?
 Single-hose units expel conditioned indoor air outside, creating a vacuum which pulls outside air back into the house through cracks and gaps. Dual-hose systems draw outdoor air strictly through the second hose to exhaust heat, keeping indoor air pressure balanced. 
 
-This a low cost heating/cooling method which is completely independant of any other heating mechanism and can be installed/removed relatively quickly. Coupled with a source which accumulates heat naturally during sunny intervals (e.g. conservatory) then it can be a very cheap/effective method of heating in moderate conditions. The main drawbacks are that it is noisy and cannot heat up a room quickly due to the low power.
+This a low cost heating/cooling method which is completely independant of any other heating mechanism and can be installed/removed relatively quickly. Coupled with a source which accumulates heat naturally during sunny intervals (e.g. conservatory) then it can be a cheap/effective method of heating in moderate conditions and lower impact on the environment. The main drawbacks are that it is noisy and cannot heat up a room quickly due to the low power.
 
 From the results shown a COP (heat energy out/electric energy in) can be 2-4 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower cost outlay and has much easier installation/removal/repair which does not require any professional f-gas handling.
  
