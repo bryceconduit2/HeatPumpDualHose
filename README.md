@@ -9,7 +9,8 @@ This a low cost heating/cooling method which is completely independant of any ot
 
 From the results shown a COP (heat energy out/electric energy in) can be 2.5-3.5 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower outlay and has much easier installation/removal which does not require any professional f-gas handling.
  
-# Setup
+# Equipment used
+This is what is used here, but many different combinations are possible:
 - Costway FP10284GB 5in1 heat/cooling/dehumidifer 7000 BTU. Contains propane (R290) as the refrigerant.
 - Anet A8 3D printer
 - PLA filement
