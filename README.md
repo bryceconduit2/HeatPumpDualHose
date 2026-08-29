@@ -7,7 +7,7 @@ Single-hose units expel conditioned indoor air outside, creating a vacuum which 
 
 This a low cost heating/cooling method which is completely independant of any other heating mechanism and can be installed/removed relatively quickly. Coupled with a source which accumulates heat naturally (e.g. conservatory) then it can be a very cheap/effective method of heating in moderate conditions. The main drawbacks are that it is noisy and cannot heat up a room quickly due to the low power.
 
-From the results shown a COP (heat energy out/electric energy in) can be 2.5-3.5 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower outlay and has much easier installation/removal which does not require any professional f-gas handling.
+From the results shown a COP (heat energy out/electric energy in) can be 2-4 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower outlay and has much easier installation/removal which does not require any professional f-gas handling.
  
 # Equipment used
 This is what is used here, but many different combinations are possible:
@@ -17,7 +17,7 @@ This is what is used here, but many different combinations are possible:
 - Plywood/whitewood for wood surround
 
 # Measurements
-The following parameters are measured:
+The following parameters are measured to monitor performance:
 - **Electricity Power In [kW]**: Using plug in power meter
 - **Source Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in source location).
 - **Room In Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in room location).
