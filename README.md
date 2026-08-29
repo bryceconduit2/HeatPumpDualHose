@@ -24,7 +24,7 @@ The following parameters are measured:
 
 Following parameters assumed:
 - **Air volume [m<sup>3</sup>/hour]**: From heat pump specifications.
-- **Air density [kg/m<sup>3</sup>]**: Assumed as 1.2 kg/m^3.
+- **Air density [kg/m<sup>3</sup>]**: Assumed as 1.2 kg/m<sup>3</sup>.
 
 Calculated values:
 - **Air heat capacity [KJ/K/kg]**: From lookup table vs air humidity
