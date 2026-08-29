@@ -7,6 +7,8 @@ Single-hose units expel conditioned indoor air outside, creating a vacuum which 
 
 This a low cost heating/cooling method which is completely independant of any other heating mechanism and can be installed/removed relatively quickly. Coupled with a source which accumulates heat naturally (e.g. conservatory) then it can be a very cheap/effective method of heating in moderate conditions. The main drawbacks are that it is noisy and cannot heat up a room quickly due to the low power.
 
+From the results shown a COP (heat energy out/electric energy in) can be 2.5-3.5 depending on the source temperature. Whilst not as good as typical mini split system, it has a much lower outlay and has much easier installation/removal which does not require any professional f-gas handling.
+ 
 # Setup
 - Costway FP10284GB 5in1 heat/cooling/dehumidifer 7000 BTU. Contains propane (R290) as the refrigerant.
 - Anet A8 3D printer
