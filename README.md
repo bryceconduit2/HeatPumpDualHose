@@ -5,8 +5,12 @@
 # Why?
 Single-hose units expel conditioned indoor air outside, creating a vacuum which pulls outside air back into the house through cracks and gaps. Dual-hose systems draw outdoor air strictly through the second hose to exhaust heat, keeping indoor air pressure balanced. 
 
+# Setup
+- Costway FP10284GB 5in1 heat/cooling/dehumidifer 7000 BTU.
+- Anet A8 3D printer
+
 # Measurements
-Following parameters measured:
+The following parameters are measured:
 - **Electricity Power In [kW]**: Using plug in power meter
 - **Source Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in source location).
 - **Room In Temperature [C]**: Using DHT 11 Temperature/Humidity Sensor attached to ESP8266 Wemos D1 Mini (in room location).
